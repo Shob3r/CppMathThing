@@ -29,7 +29,7 @@ int main() {
     //tell the program what the system time is
     time_t now = time(0);
     tm* localTime = localtime(&now);
-    #pragma warning(pop)
+#pragma warning(pop)
     int hour = localTime->tm_hour;
 
     //Main program
@@ -51,7 +51,7 @@ mainMenu:
 
     if (menuChoice == 1) {
         Sleep(.5);
-        system("clear");
+        system("cls");
         cout << "Enter the first number (You can use decimal places)" << std::endl;
         cin >> CalculatorNum1;
         cout << "Enter the second number" << std::endl;
@@ -93,7 +93,7 @@ mainMenu:
     else if (menuChoice == 2) {
         cout << "Random math time" << std::endl;
         Sleep(1);
-        system("clear");
+        system("cls");
         cout << "This part of the code uses the C++ Libraries known as cmath and unistd.h, \n which can do advanced math and generate random numbers, respectively." << std::endl;
         Sleep(.25);
         cout << "Let's generate a random number." << std::endl;
@@ -119,7 +119,7 @@ mainMenu:
 
     }
     else if (menuChoice != 1, 2, 3) {
-        system("clear");
+        system("cls");
         cout << "Choose from 1-3" << std::endl;
         goto mainMenu;
     }
