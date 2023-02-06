@@ -1,0 +1,14 @@
+﻿  CppScuffedMathApp.cpp
+C:\Users\Shober\Desktop\CppScuffedMathApp\CppScuffedMathApp\CppScuffedMathApp.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shober\Desktop\CppScuffedMathApp\CppScuffedMathApp\CppScuffedMathApp.cpp(37,11): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Shober\Desktop\CppScuffedMathApp\CppScuffedMathApp\CppScuffedMathApp.cpp(39,11): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Shober\Desktop\CppScuffedMathApp\CppScuffedMathApp\CppScuffedMathApp.cpp(41,11): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Shober\Desktop\CppScuffedMathApp\CppScuffedMathApp\CppScuffedMathApp.cpp(53,15): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Shober\Desktop\CppScuffedMathApp\CppScuffedMathApp\CppScuffedMathApp.cpp(98,15): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Shober\Desktop\CppScuffedMathApp\CppScuffedMathApp\CppScuffedMathApp.cpp(100,15): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Shober\Desktop\CppScuffedMathApp\CppScuffedMathApp\CppScuffedMathApp.cpp(102,15): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 44 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CppScuffedMathApp.vcxproj -> C:\Users\Shober\Desktop\CppScuffedMathApp\x64\Release\CppScuffedMathApp.exe
